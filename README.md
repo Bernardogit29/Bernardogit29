@@ -2,11 +2,12 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Me chamo Bartholomeo Elias da Rocha, tenho 16 anos e sou natural de Minas Gerais. Atualmente curso o Ensino Médio integrado ao Técnico em Informática na FUNEC, onde desenvolvo conhecimentos em programação, lógica computacional e fundamentos de tecnologia.
+
+Estou estudando Java e Banco de Dados, buscando aprimorar minhas habilidades na criação de API funcionais. Sou apaixonado por tecnologia e tenho grande interesse em aprender novas ferramentas, resolver problemas e desenvolver soluções inovadoras que facilitem o dia a dia das pessoas.</p>
 
 ###
 
-<h2 align="left">About me</h2>
 
 ###
 
