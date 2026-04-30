@@ -2,9 +2,11 @@
 
 ###
 
-<p align="left">Me chamo Bartholomeo Elias da Rocha, tenho 16 anos e sou natural de Minas Gerais. Atualmente curso o Ensino Médio integrado ao Técnico em Informática na FUNEC, onde desenvolvo conhecimentos em programação, lógica computacional e fundamentos de tecnologia.
+<p align="left">Sou Bernardo Henrique dos Santos Oliveira, tenho 16 anos e sou de Minas Gerais. Atualmente curso o Ensino Médio integrado ao Técnico em Informática pela FUNEC, onde venho construindo uma base sólida em programação e tecnologia.
 
-Estou estudando Java e Banco de Dados, buscando aprimorar minhas habilidades na criação de API funcionais. Sou apaixonado por tecnologia e tenho grande interesse em aprender novas ferramentas, resolver problemas e desenvolver soluções inovadoras que facilitem o dia a dia das pessoas.</p>
+Tenho direcionado meus estudos para Java e Banco de Dados. Gosto de transformar ideias em soluções práticas, resolver problemas e explorar novas tecnologias.
+
+Estou sempre buscando evoluir como desenvolvedor, aprendendo na prática e criando projetos que façam sentido e tenham impacto no dia a dia.</p>
 
 ###
 
