@@ -4,7 +4,7 @@
 
 <p align="left">Sou Bernardo Henrique dos Santos Oliveira, tenho 16 anos e sou de Minas Gerais. Atualmente curso o Ensino Médio integrado ao Técnico em Informática pela FUNEC, onde venho construindo uma base sólida em programação e tecnologia.
 
-Tenho direcionado meus estudos para Java e Banco de Dados. Gosto de transformar ideias em soluções práticas, resolver problemas e explorar novas tecnologias.
+Tenho direcionado meus estudos para Javascript,Banco de Dados e react native. Gosto de transformar ideias em soluções práticas, resolver problemas e explorar novas tecnologias.
 
 Estou sempre buscando evoluir como desenvolvedor, aprendendo na prática e criando projetos que façam sentido e tenham impacto no dia a dia.</p>
 
