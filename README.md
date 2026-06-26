@@ -1,41 +1,57 @@
-<h1 align="left">Bernardo Henrique</h1>
+# 👋 Olá, eu sou o Bernardo Henrique
 
-###
+🎓 Estudante do Ensino Médio com Técnico Integrado em T.I  
+🏫 FUNEC Riacho  
+💻 Interesse em Desenvolvimento Backend  
+☁️ Estudando Cloud Computing e AWS  
+🔐 Interesse em Segurança da Informação  
 
-<p align="left">Sou Bernardo Henrique dos Santos Oliveira, tenho 16 anos e sou de Minas Gerais. Atualmente curso o Ensino Médio integrado ao Técnico em Informática pela FUNEC, onde venho construindo uma base sólida em programação e tecnologia.
+---
 
-Tenho direcionado meus estudos para Javascript,Banco de Dados e react native. Gosto de transformar ideias em soluções práticas, resolver problemas e explorar novas tecnologias.
+## 🚀 Sobre mim
 
-Estou sempre buscando evoluir como desenvolvedor, aprendendo na prática e criando projetos que façam sentido e tenham impacto no dia a dia.</p>
+Tenho 17 anos e estudo na FUNEC Riacho, cursando o Ensino Médio com Técnico Integrado em Tecnologia da Informação.
 
-###
+Tenho interesse na área de desenvolvimento backend, banco de dados, computação em nuvem e segurança da informação. Busco evoluir meus conhecimentos em programação e tecnologia, criando projetos práticos e aprendendo cada vez mais sobre o mercado de T.I.
 
+Atualmente estou desenvolvendo habilidades em linguagens de programação, banco de dados, sistemas Linux e ferramentas importantes para o desenvolvimento de software.
 
-###
+---
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+## 🛠️ Tecnologias e Ferramentas
 
-###
+- HTML
+- CSS
+- Java
+- Python
+- JavaScript
+- PHP
+- MySQL
+- AWS
+- Linux
+- Git & GitHub
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 📚 Atualmente Estudando
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
- 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+- Estrutura de Dados
+- APIs REST
+- Cloud Computing
+- Segurança da Informação
+- Desenvolvimento Backend
+- Banco de Dados
 
-###
+---
+
+## 🎯 Objetivo Profissional
+
+Meu objetivo é atuar na área de tecnologia, principalmente como desenvolvedor backend ou em áreas relacionadas à cloud, infraestrutura e segurança da informação.
+
+Quero aplicar meus conhecimentos em projetos reais, adquirir experiência profissional e continuar evoluindo na área de T.I.
+
+---
+
+## 📌 GitHub
+
+Este perfil será utilizado para organizar meus projetos, estudos e atividades relacionadas à programação e tecnologia.
